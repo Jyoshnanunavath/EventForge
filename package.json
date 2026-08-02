@@ -3,6 +3,11 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jyoshnanunavath/EventForge.git"
+  },
+  "homepage": "https://github.com/Jyoshnanunavath/EventForge",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
