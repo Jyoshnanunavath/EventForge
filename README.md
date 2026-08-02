@@ -1,3 +1,4 @@
+# EventForge 
 # AI Event Management Platform
 
 ## Description
