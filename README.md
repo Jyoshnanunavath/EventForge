@@ -179,4 +179,4 @@ Backend API: **[http://localhost:5000](http://localhost:5000/)**
 
 ## Why This Project?
 
-This project showcases end-to-end event lifecycle management by integrating Artificial Intelligence with modern web development. It demonstrates practical skills in software engineering, stakeholder management, requirement gathering, sprint planning, budgeting, risk management, resource allocation, KPI monitoring, and secure event operations. The combination of AI-powered automation and professional project management practices makes it a strong portfolio project for Technical Project Management, Product Management, Program Management, and Software Engineering roles, including opportunities like the Google Project Management Apprenticeship.
+This project showcases end-to-end event lifecycle management by integrating Artificial Intelligence with modern web development. It demonstrates practical skills in software engineering, stakeholder management, requirement gathering, sprint planning, budgeting, risk management, resource allocation, KPI monitoring, and secure event operations. 
